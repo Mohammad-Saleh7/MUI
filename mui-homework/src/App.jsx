@@ -6,8 +6,8 @@ export default function App() {
   return (
     <div>
       {/* <AlignedButtons /> */}
-      {/* <GridTextFields /> */}
-      <BoxComponent />
+      <GridTextFields />
+      {/* <BoxComponent /> */}
     </div>
   );
 }
